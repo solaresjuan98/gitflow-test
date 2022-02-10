@@ -4,7 +4,7 @@ const router = Router()
 
 router.get('/', (req, res) => {
     res.json({
-        msg: 'Hola Mundo 201800496'
+        msg: 'Hola Mundo 201800496- Hotfix'
     })
 })
 
